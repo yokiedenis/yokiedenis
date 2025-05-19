@@ -1,4 +1,10 @@
 ## Hi there 👋
+[![logoy](https://github.com/user-attachments/assets/12d2d0a3-de51-4db4-bdc1-746b8f6415ce)(https://yokas.tech)]
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yokiedenis&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yokiedenis&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yokiedenis&theme=tokyonight)
 
 <!--
 **yokiedenis/yokiedenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +16,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...![logoy](https://github.com/user-attachments/assets/12d2d0a3-de51-4db4-bdc1-746b8f6415ce)
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
