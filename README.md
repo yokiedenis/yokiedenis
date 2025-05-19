@@ -1,7 +1,7 @@
 ## heyy you, welcome to my github; join me as we streak a month📈💻💪
 <div align="center">
   <a href="https://yokas.tech">
-    <img src="https://github.com/user-attachments/assets/12d2d0a3-de51-4db4-bdc1-746b8f6415ce" alt="logoy" height="200" width="200"/>
+    <img src="./logoy.png" alt="logoy" height="200" width="200"/>
   </a>
 </div>
 
