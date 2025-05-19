@@ -1,4 +1,4 @@
-## heyy you, welcome to my github; join me as we streak a month📈💻💪
+## heyy you!🙃, welcome to my github; join me as we streak a month📈💻💪
 <div align="center">
   <a href="https://yokas.tech">
     <img src="./logoy.png" alt="logoy" height="200" width="200"/>
