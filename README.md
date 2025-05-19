@@ -6,10 +6,10 @@
 </div>
 
 ## 📊 GitHub Stats
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yokiedenis&theme=tokyonight)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yokiedenis&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yokiedenis&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yokiedenis&theme=tokyonight)
+
 
 
 ### 🛠️ Tech Stack
